@@ -1,6 +1,6 @@
 <h2> Hi, I'm Isha! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="60"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>I'm isha, currently pursuing B. Tech from Indira Gandhi Delhi Technical University. I am keenly interested in programming and i do enjoy it as well. I like to exchange ideas with people. I like to explore more and more stuff and currently, I am focusing more on DSA, learning react-js as well ✨  <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30"> 
+<p><em>I'm isha, currently pursuing B. Tech from Indira Gandhi Delhi Technical University.<br>I am keenly interested in programming and i do enjoy it as well.<br> I like to exchange ideas with people.<br> I like to explore more and more stuff and currently, I am focusing more on DSA,<br> learning react-js as well <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30"> 
   <br><br><b>Reach out to me:</b></em></p>
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falselunatic)

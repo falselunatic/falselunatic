@@ -14,7 +14,7 @@
 const isha = {
   pronouns: "she" | "her",
   code: ["C/CPP"],
-  askMeAbout: ["C++", "Frontend Web Development"],
+  talksAbout: ["C++", "Frontend Web Development"],
   webDevelopment: {
       frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
       backend: ["Php", "JavaScript"],
@@ -26,9 +26,9 @@ const isha = {
 <br>
 <div>
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=falselunatic&hide=stars&show_icons=true&theme=dracula&line_height=32">
-<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&count_private=true&theme=dracula">
+<img align = "  right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&count_private=true&theme=dracula">
 </div>
 
-<em><b>you may say i'm a dreamer, but i'm not the only one. i hope someday you'll join us & the world will live as one :) </b> so if you wanna say <b>hi, I'll be happy to meet you more!</b></em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---

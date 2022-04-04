@@ -12,7 +12,6 @@
 
 ```javascript
 const isha = {
-  pronouns: "she" | "her",
   code: ["C/CPP"],
   talksAbout: ["C++", "Frontend Web Development"],
   webDevelopment: {
@@ -29,6 +28,5 @@ const isha = {
 <img align = "  right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&count_private=true&theme=dracula">
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---

@@ -7,26 +7,3 @@
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
 > [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/falselunaticc/)
 
-
-### <img src="https://media.giphy.com/media/PTtGoz2GijZToMhh38/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const isha = {
-  code: ["C/CPP"],
-  talksAbout: ["C++", "Frontend Web Development"],
-  webDevelopment: {
-      frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
-      backend: ["Php", "JavaScript"],
-  },
- current: "I am trying to explore more about tech & learning Data Structures and Algorithms as well",
- funFact: "During my leisure time, I love to watch sci-fi movies."
-}
-```
-<br>
-<div>
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=falselunatic&hide=stars&show_icons=true&theme=dracula&line_height=32">
-<img align = "  right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&count_private=true&theme=dracula">
-</div>
-
-
----

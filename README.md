@@ -1,6 +1,6 @@
  <img align="right" alt="GIF" src="https://github.com/falselunatic/falselunatic/blob/main/hello.gif" width="500" height="320" />
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm isha</h1>I'm pursuing B. Tech from Indira Gandhi Delhi Technical University. I am keenly interested in programming and i do enjoy it as well. I like to exchange ideas with people. I like to explore more and more stuff. My areas of interest are Web Development, AI, Blockchain & My zeal for technology keeps me going.
+<h1 align="left">Hi, I'm isha</h1>I'm pursuing B. Tech from Indira Gandhi Delhi Technical University. I am keenly interested in programming and i do enjoy it as well. I like to exchange ideas with people. I like to explore more and more stuff. My areas of interest are Web Development, AI, Blockchain & My zeal for technology keeps me going.
 
 
 ## 🙋‍♂️ About Me

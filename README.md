@@ -1,39 +1,56 @@
- <img align="right" alt="GIF" src="https://github.com/falselunatic/falselunatic/blob/main/hello.gif" width="500" height="320" />
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=falselunatic&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there, i am Isha.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="600" height="600"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="250" />
+  </div>
+</div>
 
-<h1 align="left">Hi, I'm isha</h1>I'm pursuing B. Tech from Indira Gandhi Delhi Technical University. I am keenly interested in programming and i do enjoy it as well. I like to exchange ideas with people. I like to explore more and more stuff. My areas of interest are Web Development, AI, Blockchain & My zeal for technology keeps me going.
+---
 
+### :woman_technologist: About Me : I am a Full Stack Developer from India.
+- :telescope: A sophomore who is passionate about coding and contributing to frontend and backend for building web applications.
 
-## 🙋‍♂️ About Me
+- :seedling: Exploring Technical Content Writing.
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- :zap: In my free time, I solve problems on GeeksforGeeks and watch Sci-Fi movies or Situation Comedy.
 
-- 🌱 I’m currently learning **ReactJS** and **Data Structures and Algorithms.**
+- :mailbox: How to reach me: isha.ninety9@gmail.com 
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
-- 📫 Reach me **isha.ninety9@gmail.com**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+</div>
 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+---
 
-## 🚀 Languages and Tools:
+### :fire: My Stats :
 
-<p align="left"> 
-    <a href="https://en.cppreference.com/w/cpp/language" target="_blank"> <img src="https://img.icons8.com/wired/64/4a90e2/c-plus-plus.png" width="45"/> </a>
-    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/c.png" width="45"/> </a>
-<!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="45"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45"/> </a>
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="50"/> </a>
-<!--     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/> </a> -->
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/falselunatic/github-readme-stats"><img alt="isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=falselunatic&theme=midnight-purple&show_icons=true" /></a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/falselunatic/github-readme-stats"><img alt="Shahina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&layout=compact&theme=vision-friendly-dark)](https://github.com/falselunatic/github-readme-stats)

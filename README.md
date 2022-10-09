@@ -16,7 +16,7 @@
 ### :woman_technologist: About Me : I am a Full Stack Developer from India.
 - :telescope: A sophomore who is passionate about coding and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring more about tech.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and watch Sci-Fi movies or Situation Comedy.
 

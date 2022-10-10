@@ -46,5 +46,4 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&layout=compact&theme=vision-friendly-dark)](https://github.com/falselunatic/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 

@@ -11,21 +11,20 @@
   </div>
 </div>
 
----
-
 ### :woman_technologist: About Me : I am a Full Stack Developer from India.
 - :telescope: A sophomore who is passionate about coding and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring more about tech.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and watch Sci-Fi movies or Situation Comedy.
-
-- :mailbox: How to reach me: isha.ninety9@gmail.com 
-
----
+- :zap: In my free time, either i watch animes or the sci-fi movies.
+ 
+ ### <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40"> Reach out to me: 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falselunatic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ishy.y_/)
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
@@ -46,10 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
 </div>
 
----
-
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&layout=compact&theme=vision-friendly-dark)](https://github.com/falselunatic/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falselunatic&layout=compact&theme=vision-friendly-dark)](https://github.com/falselunatic/github-readme-stats)

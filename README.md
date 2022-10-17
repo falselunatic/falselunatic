@@ -46,7 +46,12 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=falselunatic&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<img src="https://github-readme-stats.vercel.app/api?username=falselunatic&show_icons=true&theme=jolly" alt="github stats" width="48%" align="left" margin-top="140px"/>
+</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=falselunatic&theme=jolly" width="48%" >
 
-### :octocat: My Badges: 
+### :octocat: Badges I Earned: 
 [![@falselunatic's Holopin board](https://holopin.me/falselunatic)](https://holopin.io/@falselunatic)
+
+

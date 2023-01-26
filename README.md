@@ -6,9 +6,6 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/97685305/214829963-b91cf185-c94a-43ae-ad88-2ed80ee560c8.gif" />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="200" />
-  </div>
 </div>
 
 ### :woman_technologist: About Me : I am a Full Stack Developer from India.

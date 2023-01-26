@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300" height="300"/>
+ <img src="https://user-images.githubusercontent.com/97685305/214829963-b91cf185-c94a-43ae-ad88-2ed80ee560c8.gif" />
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/4CT0HDGW75DSDOdxZR/giphy.gif" width="200" />
@@ -21,7 +21,7 @@
  ### <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40"> Reach out to me: 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falselunatic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falselunatic/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ishy.y_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoreoshake/)
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :

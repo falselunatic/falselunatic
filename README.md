@@ -42,7 +42,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp; -->
 </div>
 
-### :fire: Github Stats  
+### :fire: Github Stats:
 <div align="left"> 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=falselunatic&show_icons=true&theme=dark&hide_border=true" />
 <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=falselunatic&theme=dark&hide_border=true" /> -->

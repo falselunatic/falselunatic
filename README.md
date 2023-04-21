@@ -42,12 +42,14 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp; -->
 </div>
 
-### :fire: My Stats :
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<img src="https://github-readme-stats.vercel.app/api?username=falselunatic&show_icons=true&theme=jolly" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=falselunatic&theme=jolly" width="48%" > -->
+### :fire: Github Stats  
+<div align="center"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=falselunatic&show_icons=true&theme=dark&hide_border=true" />
+<!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=falselunatic&theme=dark&hide_border=true" /> -->
+</div>  
+
 <br/>
-<div>  
+
   
 ### :octocat: Badges I Earned: 
 [![@falselunatic's Holopin board](https://holopin.me/falselunatic)](https://holopin.io/@falselunatic)

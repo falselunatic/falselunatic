@@ -7,16 +7,16 @@
 
 ```javascript
 const isha = {
-  pronouns: "she" | "her",
-  code: ["C/CPP"],
+  pronouns: "she",
+  code: ["C/CPP", "Python"],
   askMeAbout: ["UI/UX", "Frontend Web Development"],
   webDevelopment: {
-      frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
-      backend: ["Node", "PHP", "Express"],
+    frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
+    backend: ["Node", "PHP", "Express"],
   },
- current: "I am working on react-based projects and focusing on Data Structures",
- funFact: "During my leisure time, I love to watch animes"
-}
+  current: "I am working on React-based projects and focusing on Data Structures",
+  funFact: "Sometimes I feel like I am so dumb lol"
+};
 ```
 <!-- <br>
 <b>Reach out to me:</b></em></p> -->

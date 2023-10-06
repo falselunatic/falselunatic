@@ -15,7 +15,6 @@ const isha = {
     backend: ["Node", "PHP", "Express"],
   },
   current: "I am working on React-based projects and focusing on Data Structures",
-  funFact: "Sometimes I feel like I am so dumb lol"
 };
 ```
 <!-- <br>

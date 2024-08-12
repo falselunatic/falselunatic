@@ -12,7 +12,7 @@ const isha = {
   askMeAbout: ["UI/UX", "Frontend Web Development"],
   webDevelopment: {
     frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
-    backend: ["Node", "PHP", "Express"],
+    backend: ["Node", "PHP"],
   },
   current: "I am working on React-based projects and focusing on Data Structures",
 };

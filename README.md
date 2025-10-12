@@ -3,20 +3,7 @@
 <!-- <p><em>Innovative problem-solver with a knack for finding creative solutions. <br> -->
 <!-- <img src="https://media.giphy.com/media/l1J9wQIaj0He3bTSU/giphy.gif" width="30">  -->
 
-### About me...  
 
-```javascript
-const isha = {
-  pronouns: "she",
-  code: ["C/CPP", "Python"],
-  askMeAbout: ["UI/UX", "Frontend Web Development"],
-  webDevelopment: {
-    frontend: ["HTML", "CSS", "BootStrap", "JavaScript", "React"],
-    backend: ["Node", "PHP"],
-  },
-  current: "I am working on React-based projects and focusing on Data Structures",
-};
-```
 <!-- <br>
 <b>Reach out to me:</b></em></p> -->
 <!-- 
